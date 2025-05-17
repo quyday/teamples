@@ -82,12 +82,13 @@ h1 {
 
 h2 {
      font-size: 22px;
-     font-family: 'Righteous', cursive;
+     font-family: cursive;
 }
 
 h3 {
+     letter-spacing: 0.5px;
      font-size: 18px;
-     font-family: 'Righteous', cursive;
+     font-family: "Raleway", sans-serif;
 }
 
 h4 {
